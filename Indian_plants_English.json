@@ -1,0 +1,154 @@
+[
+    {
+        "type": "Plant",
+        "name": "Karivepaku (Curry Leaf Plant)",
+        "origin_region": "Southern India – Andhra Pradesh, Tamil Nadu",
+        "best_season_to_grow": "Early summer (March to May)",
+        "toxicity": "Non-toxic to humans and pets",
+        "growing_nurturing_instructions": "Plant curry leaves in well-draining soil with plenty of sunlight. Use a medium-sized pot or open ground, and water when the topsoil feels dry. It prefers warm climates and doesn’t tolerate frost. Prune regularly to promote bushy growth. Add compost every 2 months for leaf yield."
+    },
+    {
+        "type": "Plant",
+        "name": "Tulasi (Holy Basil)",
+        "origin_region": "Pan-India, most common in central plains",
+        "best_season_to_grow": "Late spring (April to June)",
+        "toxicity": "Non-toxic, medicinal herb",
+        "growing_nurturing_instructions": "Holy Basil requires a sunny location and slightly moist, well-aerated soil. It grows well in small pots or garden beds. Water every alternate day and avoid overwatering. It thrives on occasional organic manure. Pinch off flowers to encourage leaf growth."
+    },
+    {
+        "type": "Plant",
+        "name": "Amrutha Balli (Giloy)",
+        "origin_region": "Western Ghats and Eastern India",
+        "best_season_to_grow": "Monsoon (June to August)",
+        "toxicity": "Non-toxic when consumed in moderate amounts",
+        "growing_nurturing_instructions": "This is a climbing herb and needs a support like a fence or tree. Prefers slightly moist soil and partial to full sunlight. Grows vigorously in monsoon with minimal care. Prune excess stems every few months to manage growth. Do not overwater in winter."
+    },
+    {
+        "type": "Plant",
+        "name": "Vepa (Neem)",
+        "origin_region": "North and Central India",
+        "best_season_to_grow": "Late spring to early monsoon",
+        "toxicity": "Mildly toxic if ingested in large quantities",
+        "growing_nurturing_instructions": "Neem prefers dry and sandy soil, full sunlight, and minimal watering. It is drought-resistant and thrives with very little care once established. Water only during dry spells in the early stages. Avoid over-pruning; let it grow tall naturally. Add cow dung manure annually."
+    },
+    {
+        "type": "Vegetable",
+        "name": "Bendakaya (Okra / Lady's Finger)",
+        "origin_region": "Southern India – especially Andhra and Telangana",
+        "best_season_to_grow": "Summer to early monsoon (March to July)",
+        "toxicity": "Non-toxic",
+        "growing_nurturing_instructions": "Grows best in full sunlight and warm climates. Use loose, well-draining soil. Sow seeds directly into the ground or grow bags, spaced a few inches apart. Water every 2–3 days. Harvest when pods are 3–4 inches long. Trim old stems to promote continuous yield."
+    },
+    {
+        "type": "Vegetable",
+        "name": "Vankaya (Brinjal / Eggplant)",
+        "origin_region": "Central India and Deccan Plateau",
+        "best_season_to_grow": "Late spring (April to June)",
+        "toxicity": "Non-toxic to humans; mildly toxic to pets in large amounts",
+        "growing_nurturing_instructions": "Brinjal grows well in medium-textured soil with compost. It needs sunlight for 6–8 hours daily. Plant saplings or seeds in a raised bed. Use natural neem pesticide for bugs. Harvest fruits when glossy and medium-sized. Regular pruning improves growth."
+    },
+    {
+        "type": "Vegetable",
+        "name": "Sorakaya (Bottle Gourd)",
+        "origin_region": "Eastern and Southern India",
+        "best_season_to_grow": "Monsoon (June to September)",
+        "toxicity": "Non-toxic",
+        "growing_nurturing_instructions": "Requires a lot of space and a climber support. Use deep, fertile soil and plenty of compost. Water regularly and allow sunlight exposure. Harvest while tender and before it turns yellow. It benefits from mulching and monthly feeding with organic fertilizer."
+    },
+    {
+        "type": "Vegetable",
+        "name": "Sorakaya (Bottle Gourd)",
+        "origin_region": "Eastern and Southern India",
+        "best_season_to_grow": "Monsoon (June to September)",
+        "toxicity": "Non-toxic",
+        "growing_nurturing_instructions": "Requires a lot of space and a climber support. Use deep, fertile soil and plenty of compost. Water regularly and allow sunlight exposure. Harvest while tender and before it turns yellow. It benefits from mulching and monthly feeding with organic fertilizer."
+    },
+    {
+        "type": "Vegetable",
+        "name": "Chikkudukaya (Indian Broad Beans)",
+        "origin_region": "Andhra Pradesh, Karnataka",
+        "best_season_to_grow": "Late monsoon to early winter (August to December)",
+        "toxicity": "Non-toxic",
+        "growing_nurturing_instructions": "Climbing vegetable that prefers cooler months. Sow seeds near a support structure. Use compost-rich soil and water every alternate day. Remove dried pods to encourage more flowering. Beans are ready to harvest in about 60–70 days."
+    },
+    {
+        "type": "Fruit",
+        "name": "Seethaphal (Custard Apple)",
+        "origin_region": "Maharashtra, Andhra Pradesh, parts of Madhya Pradesh",
+        "best_season_to_grow": "Summer to early monsoon (April to July)",
+        "toxicity": "Seeds are toxic if chewed/swallowed",
+        "growing_nurturing_instructions": "Requires hot and dry climate. Grows best in well-drained sandy soil. Plant saplings with spacing of at least 4–5 feet. Water every week during growing season and reduce in winters. Prune after fruiting to shape the tree. Mulch during dry seasons to retain moisture."
+    },
+    {
+        "type": "Fruit",
+        "name": "Seethaphal (Custard Apple)",
+        "origin_region": "Maharashtra, Andhra Pradesh, parts of Madhya Pradesh",
+        "best_season_to_grow": "Summer to early monsoon (April to July)",
+        "toxicity": "Seeds are toxic if chewed/swallowed",
+        "growing_nurturing_instructions": "Requires hot and dry climate. Grows best in well-drained sandy soil. Plant saplings with spacing of at least 4–5 feet. Water every week during growing season and reduce in winters. Prune after fruiting to shape the tree. Mulch during dry seasons to retain moisture."
+    },
+    {
+        "type": "Fruit",
+        "name": "Guava (Jama / Jamakaya)",
+        "origin_region": "Bihar, Uttar Pradesh, Karnataka",
+        "best_season_to_grow": "Monsoon to winter (June to December)",
+        "toxicity": "Non-toxic",
+        "growing_nurturing_instructions": "Prefers well-drained soil and full sunlight. Water every 4–5 days in summer. Thin out fruits when too many grow on a single branch. Use cow dung or compost every 3 months. Prune after harvest to encourage new fruiting."
+    },
+    {
+        "type": "Fruit",
+        "name": "Sapota (Chikoo)",
+        "origin_region": "Maharashtra, Gujarat, Tamil Nadu",
+        "best_season_to_grow": "Late winter to early summer",
+        "toxicity": "Non-toxic",
+        "growing_nurturing_instructions": "Thrives in hot and humid climates. Use fertile loam soil with good drainage. Water twice a week in early stages. Fruit-bearing begins after 3 years. Apply organic fertilizer every 6 months. Avoid waterlogging. Mulch in summer."
+    },
+    {
+        "type": "Fruit",
+        "name": "Ber (Indian Jujube)",
+        "origin_region": "Rajasthan, Gujarat, central plains",
+        "best_season_to_grow": "Winter (November to February)",
+        "toxicity": "Non-toxic",
+        "growing_nurturing_instructions": "Grows well in dry, arid, or semi-arid soil. Water only when topsoil is completely dry. Requires minimal care. Prune after fruiting season to remove dry branches. Fertilize annually with compost. Fruit matures 3–4 months after flowering."
+    },
+    {
+        "type": "Fruit",
+        "name": "Ber (Indian Jujube)",
+        "origin_region": "Rajasthan, Gujarat, central plains",
+        "best_season_to_grow": "Winter (November to February)",
+        "toxicity": "Non-toxic",
+        "growing_nurturing_instructions": "Grows well in dry, arid, or semi-arid soil. Water only when topsoil is completely dry. Requires minimal care. Prune after fruiting season to remove dry branches. Fertilize annually with compost. Fruit matures 3–4 months after flowering."
+    },
+    {
+        "type": "Flower",
+        "name": "Hibiscus (Mandara Puvvu)",
+        "origin_region": "Southern and coastal India",
+        "best_season_to_grow": "Spring and summer",
+        "toxicity": "Non-toxic",
+        "growing_nurturing_instructions": "Plant in direct sunlight with well-draining soil. Water every 2–3 days. Use organic fertilizer monthly during flowering season. Deadhead faded blooms to encourage more flowers. Protect from frost and keep soil slightly acidic for best growth."
+    },
+    {
+        "type": "Flower",
+        "name": "Jasmine (Malle Puvvu)",
+        "origin_region": "Tamil Nadu, Andhra Pradesh, Karnataka",
+        "best_season_to_grow": "Early summer to monsoon",
+        "toxicity": "Non-toxic",
+        "growing_nurturing_instructions": "Thrives in sunny areas with loamy soil. Water when soil is dry to touch. Needs support for climbing varieties. Use compost or cow dung every 45 days. Prune regularly to maintain shape and maximize blooming. Fragrant flowers bloom at night."
+    },
+    {
+        "type": "Flower",
+        "name": "Marigold (Banthi Puvvu)",
+        "origin_region": "Across India, especially in Karnataka and Telangana",
+        "best_season_to_grow": "Winter (October to February)",
+        "toxicity": "Non-toxic to humans; mildly irritating to pets",
+        "growing_nurturing_instructions": "Requires full sun and well-drained fertile soil. Water moderately. Pinch off dead flowers to promote more blooms. Fertilize once a month with compost. Ideal for borders and puja uses. Can be grown in pots or open ground."
+    },
+    {
+        "type": "Flower",
+        "name": "Parijatha (Night-flowering Jasmine)",
+        "origin_region": "Odisha, Bengal, Assam",
+        "best_season_to_grow": "Monsoon to early winter",
+        "toxicity": "Non-toxic",
+        "growing_nurturing_instructions": "Prefers partial sunlight and moist soil. Requires pruning after flowering. Plant in large pots or directly in the garden. Add organic compost every 2 months. Flowers fall in the morning, and leaves can be trimmed after each cycle."
+    }
+]
